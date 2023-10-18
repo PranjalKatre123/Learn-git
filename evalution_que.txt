@@ -1,0 +1,91 @@
+1 Write a C# Sharp program to merge two arrays of the same size sorted in ascending order.
+Test Data :
+Input the number of elements to be stored in the first array :3
+Input 3 elements in the array :
+element - 0 : 1
+element - 1 : 2
+element - 2 : 3
+Input the number of elements to be stored in the second array :3
+Input 3 elements in the array:
+element - 0 : 1
+element - 1 : 2
+element - 2 : 3
+Expected Output:
+The merged array in ascending order is :
+1 1 2 2 3 3
+
+2 Write a C# Sharp program to find the maximum and minimum elements in an array.
+Test Data :
+Input the number of elements to be stored in the array :3
+Input 3 elements in the array :
+element - 0 : 45
+element - 1 : 25
+element - 2 : 21
+Expected Output :
+Maximum element is : 45
+Minimum element is : 21
+
+3.Write a C# program that implements a stack and finds common elements between two stacks.
+
+4.Write a program in C# Sharp to display a right angle triangle with an asterisk.
+The pattern like :
+
+   *
+  **
+ ***
+****
+
+5.Write a program in C# Sharp to create a function to display the n number Fibonacci sequence.
+Test Data :
+Input number of Fibonacci Series : 10
+Expected Output :
+The Fibonacci series of 5 numbers is :
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
+
+6. Write a C# Sharp program to exchange the first and last characters in a given string and return the new string.
+Sample Input:
+"nice"
+"a"
+"ef"
+Expected Output:
+
+eicn
+a
+fe
+
+7.Write a C# Sharp program to check whether the sequence of numbers 1, 2, 3 appears in a given array of integers somewhere.
+
+Sample Input:
+{1,1,2,3,1}
+{1,1,2,4,1}
+{1,1,2,1,2,3}
+Expected Output:
+True
+False
+True
+Click 
+
+8.Write a C# program that reads a number from the user and calculates its square root. Handle the exception if the number is negative.
+
+9.Write a C# Sharp program to reverse a given string in uppercase.
+
+Expected Output :
+Original string: java
+Said string in uppercase: AVAJ
+
+10.Write a C# Sharp program to calculate true mean value, mean with rounding away from zero and mean with rounding to the nearest of some specified decimal values.
+Expected Output:
+True Mean: 16.36
+Away From Zero: 16.37
+Rounding to Nearest: 16.35
+
+11.Write a program of function overloading that has a function Convert() that accepts a value in parameter(ex. int, float, double) and convert them into string and print on screen.
+
+
+12: Write a program for creating Mobile.
+Name, Price, Processor, Ram and Camera should be defined in base class as constant.
+You need to inherit these functionalities in your program and Print Details.
+All the Mobile should have different name, price, processor, ram and Camera.
+
+
+
